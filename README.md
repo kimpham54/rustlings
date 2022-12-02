@@ -1,3 +1,8 @@
+# kim notes
+
+- i had to run cargo install again after a while it stopped working
+- rustings watch
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
